@@ -1,4 +1,4 @@
-# 
+# Avançado AutoHotkey modelos para Mac OS | Profissional AutoHotkey modelos para PC Windows. Com sincronizacao de arquivos e limpeza de cache — otimizado para máximo desempenho em cada plataforma.
 
 
 
